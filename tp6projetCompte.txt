@@ -1,0 +1,7 @@
+6          299        lion       Oumayma     4000DH      4/5/2019  //  16:1:56
+3          288        Cherchem       Yassine     7894DH      4/5/2019  //  16:2:11
+1          277        Makhoukhi       Ayman     9988DH      4/5/2019  //  16:2:20
+2          266        Derfouf       Hajar     4561DH      4/5/2019  //  16:2:30
+7          255        Makhoukhi       Mohamed     9999DH      4/5/2019  //  16:2:42
+12         211        Mergoum       Chaymae     5555DH      5/5/2019  //  1:37:55
+11          199        Kolder       Sam     87459DH      5/5/2019  //  13:29:46
