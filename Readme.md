@@ -10,7 +10,7 @@ This mini project allows different users to do customers management, accounts ma
 
 menu_general : the menu of choices
 
-** Customers Management Functions **
+**Customers Management Functions**
 
 creerClient : create a new customer
 
@@ -22,7 +22,7 @@ ModifierClient : modify a customer
 
 AfficherTout : display all customers
 
-** Accounts Management Functions **
+**Accounts Management Functions**
 
 CreerCompte : create an account
 
@@ -30,7 +30,7 @@ checksolde : check the balance of a user by his account's identifier
 
 fermerCompte : close an account
 
-** Operations Management functions **
+**Operations Management functions**
 
 retirer : withdraw a selected amount of money from an account
 
